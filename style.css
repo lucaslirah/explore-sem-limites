@@ -189,11 +189,11 @@ input::placeholder, textarea::placeholder{
   font-weight: 600;
   color: var(--fc-text);
 }
-.input-wrapper{
+section form > div{
   position: relative;
   width: 100%;
 }
-.input-wrapper img{
+form > div img{
   position: absolute;
   left: 2rem;
   bottom: 30%;
